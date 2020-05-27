@@ -10,6 +10,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         Menu menu=new Menu();
         menu.infoPersonnage(sc);
+        Game game=new Game();
     }
 
 }
