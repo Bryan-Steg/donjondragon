@@ -24,6 +24,7 @@ public class Mage extends Hero {
     public int getMAXHP() {
         return Mage.MAXHP;
     }
+
     @Override
     public int getMINHP() {
         return Mage.MINHP;

@@ -23,10 +23,12 @@ public class Warrior extends Hero {
     public int getMAXHP() {
         return Warrior.MAXHP;
     }
+
     @Override
     public int getMINHP() {
         return Warrior.MINHP;
     }
+
     @Override
     public int getMAXATTAQUE() {
         return Warrior.MAXATTAQUE;
